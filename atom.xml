@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jun Lai</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-06-29T04:45:02.196Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Jun Lai</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>About me</title>
+    <link href="http://yoursite.com/2016/06/29/About-me/"/>
+    <id>http://yoursite.com/2016/06/29/About-me/</id>
+    <published>2016-06-29T02:21:55.000Z</published>
+    <updated>2016-06-29T04:45:02.196Z</updated>
+    
+    <content type="html">&lt;p&gt;Hello ! My name is Jun Lai, I am from Changsha, China. In present I am a PhD candidate in National University of Defense Technology. I major in the Instrumental Technology. My interesting field includes Cooperative Localization, GPS Receiver, PRN code based positioning.&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can also feel free to talk with me in other topics, such as music (especially classical music), painting or some interesting things in science.&lt;/p&gt;
+&lt;p&gt;Email:  laijun@nudt.edu.cn&lt;/p&gt;
+&lt;p&gt;ResearchGate:  &lt;a href=&quot;https://www.researchgate.net/profile/Jun_Lai7&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://www.researchgate.net/profile/Jun_Lai7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;StackExchange: &lt;a href=&quot;http://stackexchange.com/users/1359574/user1297181&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://stackexchange.com/users/1359574/user1297181&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://o9ij4d6cc.bkt.clouddn.com/jobs%20and%20gates.jpg&quot; alt=&quot;Feel free to me&quot;&gt;&lt;/p&gt;
+&lt;p&gt;P.S. I am poor in English, so forgive me…&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Hello ! My name is Jun Lai, I am from Changsha, China. In present I am a PhD candidate in National University of Defense Technology. I major in the Instrumental Technology. My interesting field includes Cooperative Localization, GPS Receiver, PRN code based positioning.&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="me" scheme="http://yoursite.com/tags/me/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>academic articles</title>
+    <link href="http://yoursite.com/2016/06/29/academic-articles/"/>
+    <id>http://yoursite.com/2016/06/29/academic-articles/</id>
+    <published>2016-06-29T02:05:00.000Z</published>
+    <updated>2016-06-29T04:47:45.056Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;Some-Issue-about-this-blog&quot;&gt;&lt;a href=&quot;#Some-Issue-about-this-blog&quot; class=&quot;headerlink&quot; title=&quot;Some Issue about this blog&quot;&gt;&lt;/a&gt;Some Issue about this blog&lt;/h2&gt;&lt;p&gt;This blog is my personal blog. I would like to share my opinion and life style in this blog. So be free for yourself if you have any question. &lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;math-testing&quot;&gt;&lt;a href=&quot;#math-testing&quot; class=&quot;headerlink&quot; title=&quot;math testing&quot;&gt;&lt;/a&gt;math testing&lt;/h2&gt;&lt;p&gt;$$ a = a+b$$&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Some-Issue-about-this-blog&quot;&gt;&lt;a href=&quot;#Some-Issue-about-this-blog&quot; class=&quot;headerlink&quot; title=&quot;Some Issue about this blog&quot;&gt;&lt;/a&gt;Some Issue about this blog&lt;/h2&gt;&lt;p&gt;This blog is my personal blog. I would like to share my opinion and life style in this blog. So be free for yourself if you have any question. &lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="academic" scheme="http://yoursite.com/tags/academic/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2016/06/29/hello-world/"/>
+    <id>http://yoursite.com/2016/06/29/hello-world/</id>
+    <published>2016-06-29T01:45:28.050Z</published>
+    <updated>2016-06-29T01:45:28.053Z</updated>
+    
+    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo server&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo generate&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo deploy&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
